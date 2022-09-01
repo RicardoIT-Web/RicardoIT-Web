@@ -9,23 +9,23 @@ I have just finished my Diploma with Code Institute where I gained the amazing e
 
 5 Portfolio Projects
 
-1 - https://ricardoit-web.github.io/motorbikebuddy.com/  
+Project 1 - https://ricardoit-web.github.io/motorbikebuddy.com/  
 
 ![languages](Motorbike-buddy-languages-img.jpg)
 
-2 - https://ricardoit-web.github.io/rock-scissors-paper/
+Project 2 - https://ricardoit-web.github.io/rock-scissors-paper/
 
 ![languages](rock-paper-scissors-languages-img.jpg)
 
-3 - https://love-running-members-log.herokuapp.com/
+Project 3 - https://love-running-members-log.herokuapp.com/
 
 ![languages](love-running-members-log-languages-img.jpg)
 
-4 - https://diners-3star-restaurant.herokuapp.com/
+Project 4 - https://diners-3star-restaurant.herokuapp.com/
 
 ![languages](diners-3star-restaurant-languages-img.jpg)
 
-5 - https://c-soars.herokuapp.com/
+Project 5 - https://c-soars.herokuapp.com/
 
 ![languages](c-soars-languages-img.jpg)
 
