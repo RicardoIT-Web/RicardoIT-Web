@@ -3,11 +3,11 @@
 I'm Ricardo.
 
 I have been learning and developing my skills as a Full Stack Software Developer for the past year.
-I have just finished my Diploma with Code Institute where I had the amazing experience of building 5 portfolio Projects:
+I have just finished my Diploma with Code Institute where I gained the amazing experience of building 5 portfolio Projects.
 
 You can view these deployed projects by clicking the links below;
 
-1 - https://ricardoit-web.github.io/motorbikebuddy.com/
+1 - https://ricardoit-web.github.io/motorbikebuddy.com/  ![languages](/media/language-img.jpg)
 
 2 - https://ricardoit-web.github.io/rock-scissors-paper/
 
