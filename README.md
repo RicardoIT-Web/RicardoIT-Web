@@ -13,6 +13,8 @@ You can view these deployed projects by clicking the links below;
 
 2 - https://ricardoit-web.github.io/rock-scissors-paper/
 
+![languages](rock-paper-scissors-languages-img.jpg)
+
 3 - https://love-running-members-log.herokuapp.com/
 
 4 - https://diners-3star-restaurant.herokuapp.com/
