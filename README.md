@@ -2,8 +2,8 @@
 
 I'm Ricardo.
 
-I have been learning and developing my skills as a Full Stack Software Developer for the past year.
-I have just finished my Diploma with Code Institute where I gained the amazing experience of building 5 portfolio Projects. The links to these projects are listed below. I am now focusing on learning and developing my skills further with React. I can't wait to show you my results soon.
+I am a Certified Project Manager with 10 years of experience in Project Management. Seeking a career change, I have been learning and developing my skills as a Full Stack Software Developer for the past year.
+I have just finished my Diploma with Code Institute where I gained the amazing experience of building 5 Portfolio Projects. The links to these projects are listed below. I am now focusing on learning and developing my skills further with React. I can't wait to show you my results soon.
 
 
 
