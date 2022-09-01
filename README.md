@@ -8,9 +8,13 @@ I have just finished my Diploma with Code Institute where I had the amazing expe
 You can view these deployed projects by clicking the links below;
 
 1 - https://ricardoit-web.github.io/motorbikebuddy.com/
+
 2 - https://ricardoit-web.github.io/rock-scissors-paper/
+
 3 - https://love-running-members-log.herokuapp.com/
+
 4 - https://diners-3star-restaurant.herokuapp.com/
+
 5 - https://c-soars.herokuapp.com/
 
 <!--
