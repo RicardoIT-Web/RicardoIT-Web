@@ -19,9 +19,15 @@ I have just finished my Diploma with Code Institute where I gained the amazing e
 
 3 - https://love-running-members-log.herokuapp.com/
 
+![languages](love-running-members-log-languages-img.jpg)
+
 4 - https://diners-3star-restaurant.herokuapp.com/
 
+![languages](diners-3star-restaurant-languages-img.jpg)
+
 5 - https://c-soars.herokuapp.com/
+
+![languages](c-soars-languages-img.jpg)
 
 <!--
 **RicardoIT-Web/RicardoIT-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
