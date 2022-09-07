@@ -29,6 +29,11 @@ I have just finished my Diploma with Code Institute where I gained the amazing e
 
 ![languages](c-soars-languages-img.jpg)
 
+
+### My first React app
+
+![languages](https://github.com/RicardoIT-Web/tic-tac-toe/blob/master/src/media/tic-tac-toe-lang-img.jpg)
+
 <!--
 **RicardoIT-Web/RicardoIT-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
