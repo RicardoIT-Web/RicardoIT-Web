@@ -32,6 +32,9 @@ I have just finished my Diploma with Code Institute where I gained the amazing e
 
 ### My first React app - https://ricardoit-web.github.io/tic-tac-toe/
 
+### My first React app - <a href="(https://ricardoit-web.github.io/tic-tac-toe/)" target="_blank">React_Tic-Tac-Toe</a>
+
+
 ![languages](https://github.com/RicardoIT-Web/tic-tac-toe/blob/master/src/media/tic-tac-toe-lang-img.jpg)
 
 <!--
