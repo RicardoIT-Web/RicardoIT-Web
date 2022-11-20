@@ -17,7 +17,7 @@ I have just finished my Diploma with Code Institute where I gained the amazing e
 
 ![languages](rock-paper-scissors-languages-img.jpg)
 
-### Project 3 - https://love-running-members-log.herokuapp.com/
+### Project 3 - [https://love-running-members-log.herokuapp.com/](https://love-running-members-log.onrender.com/)
 
 ![languages](love-running-members-log-languages-img.jpg)
 
