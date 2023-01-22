@@ -21,7 +21,7 @@ I have just finished my Diploma with Code Institute where I gained the amazing e
 
 ![languages](love-running-members-log-languages-img.jpg)
 
-### Project 4 - https://diners-3star-restaurant.herokuapp.com/
+### Project 4 - https://diners-3star-restaurant-production.up.railway.app/
 
 ![languages](diners-3star-restaurant-languages-img.jpg)
 
